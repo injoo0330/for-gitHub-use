@@ -8,4 +8,7 @@
 2. visual studio code 설치 및 사용
 3. 로컬저장소를 sourcetree로 불러오기
 4. sourcetree로 Commit 만들고 Push
-# 장바구니 담기
+# Branch 생성예제
+1. 디테일 페이지 보여주기
+2. 장바구니 담기
+
